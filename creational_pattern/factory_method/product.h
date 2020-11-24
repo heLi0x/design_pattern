@@ -1,5 +1,5 @@
-#ifndef _SIMPLE_FACTORY_PRODUCT_H_
-#define _SIMPLE_FACTORY_PRODUCT_H_
+#ifndef _FACTORY_METHOD_PRODUCT_H_
+#define _FACTORY_METHOD_PRODUCT_H_
 #include<iostream>
 class Product{
 public:
